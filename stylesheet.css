@@ -1,4 +1,11 @@
+* {
+  border: 2px solid white;
+}
+
 #botbox {
+}
+
+#botbox ul {
 }
 
 .topbox {
@@ -7,5 +14,10 @@
 #botbox2 {
 }
 
+#botbox2 ul {
+}
+
 .topbox2 {
 } 
+
+
