@@ -8,10 +8,6 @@
   width: 90px;
 }
 
-#botbox ul {
- 
-}
-
 .topbox {
   background-color: purple;
   height: 40px;
@@ -24,13 +20,13 @@
   width: 90px;
 }
 
-#botbox2 ul {
-}
-
 .topbox2 {
   background-color: ;
   height: 40px;
   width: 90px;
 } 
 
-
+ul {
+  font-size: 12px;
+  color: black;
+}
