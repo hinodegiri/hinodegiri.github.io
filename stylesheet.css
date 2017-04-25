@@ -3,6 +3,7 @@
   width: 400px;
   opacity: 0.5;
   border: 2px solid white;
+  margin: 0 auto;
 }
 
 .topbox {
@@ -10,6 +11,7 @@
   opacity: 0.7;
   width: 200px;
   border: 2px solid white;
+  margin: 25px auto;
 }
 
 #botbox2 {
@@ -17,6 +19,7 @@
   width: 400px;
   opacity: 0.5;
   border: 2px solid white;
+  margin: 0 auto;
 }
 
 .topbox2 {
@@ -24,6 +27,7 @@
   width: 200px;
   opacity: 0.7;
   border: 2px solid white;
+  margin: 25px auto;
 } 
 
 ul {
@@ -47,4 +51,5 @@ body {
   width: 300px;
   opacity: 0.7;
   border: 2px solid white;
+  margin: 0 auto;
 }
