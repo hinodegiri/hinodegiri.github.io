@@ -44,6 +44,9 @@ p {
 
 body {
   background-color: #5F021F;
+  background-image: url("http://pre13.deviantart.net/50f3/th/pre/i/2017/115/1/0/coding_time_by_asiananity-db73dwr.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
 }
 
 .basic {
