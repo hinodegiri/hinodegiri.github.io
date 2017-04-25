@@ -43,3 +43,11 @@ p {
 body {
   background-color: #D15FEE;
 }
+
+.basic {
+  background-color: purple;
+  height: 60px;
+  width: 90px;
+  opacity: 0.6;
+  border: 2px solid white;
+}
