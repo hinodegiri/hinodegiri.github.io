@@ -1,5 +1,5 @@
 #botbox {
-  background-color: purple;
+  background-color: #c08081;
   width: 400px;
   opacity: 0.5;
   border: 2px solid white;
@@ -7,7 +7,7 @@
 }
 
 .topbox {
-  background-color: purple;
+  background-color: #c08081;
   opacity: 0.7;
   width: 200px;
   border: 2px solid white;
@@ -15,7 +15,7 @@
 }
 
 #botbox2 {
-  background-color: purple;
+  background-color: #8E4585;
   width: 400px;
   opacity: 0.5;
   border: 2px solid white;
@@ -23,7 +23,7 @@
 }
 
 .topbox2 {
-  background-color: purple;
+  background-color: #8E4585;
   width: 200px;
   opacity: 0.7;
   border: 2px solid white;
@@ -43,11 +43,11 @@ p {
 }
 
 body {
-  background-color: #D15FEE;
+  background-color: #5F021F;
 }
 
 .basic {
-  background-color: purple;
+  background-color: #A26BA2;
   width: 300px;
   opacity: 0.7;
   border: 2px solid white;
